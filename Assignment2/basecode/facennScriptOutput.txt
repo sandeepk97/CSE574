@@ -1,0 +1,308 @@
+Number of Hidden Nodes :4
+Lambda value:0
+Number of Hidden Nodes :4
+Lambda value:0
+
+ Training set Accuracy:86.41706161137441%
+
+ Validation set Accuracy:84.9906191369606%
+
+ Test set Accuracy:86.29825889477668%
+Lambda value:10
+
+ Training set Accuracy:85.70616113744076%
+
+ Validation set Accuracy:84.35272045028142%
+
+ Test set Accuracy:86.10900832702498%
+Lambda value:20
+
+ Training set Accuracy:85.65402843601896%
+
+ Validation set Accuracy:84.24015009380864%
+
+ Test set Accuracy:85.95760787282362%
+Lambda value:30
+
+ Training set Accuracy:86.54028436018957%
+
+ Validation set Accuracy:85.51594746716698%
+
+ Test set Accuracy:86.18470855412566%
+Lambda value:40
+
+ Training set Accuracy:86.77251184834122%
+
+ Validation set Accuracy:86.07879924953096%
+
+ Test set Accuracy:86.44965934897805%
+Lambda value:50
+
+ Training set Accuracy:86.25118483412322%
+
+ Validation set Accuracy:84.80300187617262%
+
+ Test set Accuracy:86.33610900832703%
+Lambda value:60
+
+ Training set Accuracy:86.43127962085309%
+
+ Validation set Accuracy:86.37898686679173%
+
+ Test set Accuracy:85.73050719152158%
+Training Time:29.193886518478394 seconds
+Number of Hidden Nodes :8
+Lambda value:0
+
+ Training set Accuracy:85.07109004739335%
+
+ Validation set Accuracy:83.75234521575985%
+
+ Test set Accuracy:85.50340651021952%
+Lambda value:10
+
+ Training set Accuracy:86.04265402843602%
+
+ Validation set Accuracy:85.328330206379%
+
+ Test set Accuracy:85.95760787282362%
+Lambda value:20
+
+ Training set Accuracy:85.8957345971564%
+
+ Validation set Accuracy:84.57786116322701%
+
+ Test set Accuracy:86.37395912187736%
+Lambda value:30
+
+ Training set Accuracy:85.31279620853081%
+
+ Validation set Accuracy:83.60225140712946%
+
+ Test set Accuracy:85.57910673732022%
+Lambda value:40
+
+ Training set Accuracy:85.51658767772511%
+
+ Validation set Accuracy:84.05253283302065%
+
+ Test set Accuracy:85.69265707797123%
+Lambda value:50
+
+ Training set Accuracy:84.94312796208531%
+
+ Validation set Accuracy:83.37711069418387%
+
+ Test set Accuracy:85.27630582891749%
+Lambda value:60
+
+ Training set Accuracy:85.01421800947867%
+
+ Validation set Accuracy:83.75234521575985%
+
+ Test set Accuracy:85.08705526116577%
+Training Time:28.004215955734253 seconds
+Number of Hidden Nodes :12
+Lambda value:0
+
+ Training set Accuracy:85.59241706161137%
+
+ Validation set Accuracy:84.50281425891181%
+
+ Test set Accuracy:85.99545798637396%
+Lambda value:10
+
+ Training set Accuracy:84.80094786729858%
+
+ Validation set Accuracy:84.09005628517824%
+
+ Test set Accuracy:85.2006056018168%
+Lambda value:20
+
+ Training set Accuracy:84.8436018957346%
+
+ Validation set Accuracy:83.18949343339587%
+
+ Test set Accuracy:85.54125662376987%
+Lambda value:30
+
+ Training set Accuracy:84.74407582938389%
+
+ Validation set Accuracy:83.00187617260788%
+
+ Test set Accuracy:85.61695685087055%
+Lambda value:40
+
+ Training set Accuracy:85.38388625592417%
+
+ Validation set Accuracy:83.63977485928706%
+
+ Test set Accuracy:85.73050719152158%
+Lambda value:50
+
+ Training set Accuracy:84.55924170616113%
+
+ Validation set Accuracy:82.73921200750469%
+
+ Test set Accuracy:85.42770628311885%
+Lambda value:60
+
+ Training set Accuracy:84.90521327014218%
+
+ Validation set Accuracy:83.45215759849907%
+
+ Test set Accuracy:85.46555639666919%
+Training Time:30.062521934509277 seconds
+Number of Hidden Nodes :16
+Lambda value:0
+
+ Training set Accuracy:84.56872037914692%
+
+ Validation set Accuracy:82.5140712945591%
+
+ Test set Accuracy:85.08705526116577%
+Lambda value:10
+
+ Training set Accuracy:85.7914691943128%
+
+ Validation set Accuracy:84.42776735459663%
+
+ Test set Accuracy:86.22255866767601%
+Lambda value:20
+
+ Training set Accuracy:85.30805687203792%
+
+ Validation set Accuracy:83.41463414634146%
+
+ Test set Accuracy:85.54125662376987%
+Lambda value:30
+
+ Training set Accuracy:85.41706161137441%
+
+ Validation set Accuracy:84.27767354596622%
+
+ Test set Accuracy:85.57910673732022%
+Lambda value:40
+
+ Training set Accuracy:84.44549763033176%
+
+ Validation set Accuracy:83.03939962476548%
+
+ Test set Accuracy:84.93565480696442%
+Lambda value:50
+
+ Training set Accuracy:85.10900473933648%
+
+ Validation set Accuracy:83.52720450281426%
+
+ Test set Accuracy:85.42770628311885%
+Lambda value:60
+
+ Training set Accuracy:84.86729857819905%
+
+ Validation set Accuracy:83.75234521575985%
+
+ Test set Accuracy:85.0113550340651%
+Training Time:30.17482829093933 seconds
+Number of Hidden Nodes :20
+Lambda value:0
+
+ Training set Accuracy:84.61611374407583%
+
+ Validation set Accuracy:82.96435272045028%
+
+ Test set Accuracy:84.97350492051477%
+Lambda value:10
+
+ Training set Accuracy:86.01421800947867%
+
+ Validation set Accuracy:84.8780487804878%
+
+ Test set Accuracy:86.14685844057533%
+Lambda value:20
+
+ Training set Accuracy:85.46445497630332%
+
+ Validation set Accuracy:84.65290806754221%
+
+ Test set Accuracy:85.8440575321726%
+Lambda value:30
+
+ Training set Accuracy:85.35545023696682%
+
+ Validation set Accuracy:83.97748592870545%
+
+ Test set Accuracy:85.35200605601817%
+Lambda value:40
+
+ Training set Accuracy:85.45497630331754%
+
+ Validation set Accuracy:84.16510318949342%
+
+ Test set Accuracy:85.88190764572293%
+Lambda value:50
+
+ Training set Accuracy:85.50236966824644%
+
+ Validation set Accuracy:84.35272045028142%
+
+ Test set Accuracy:85.6548069644209%
+Lambda value:60
+
+ Training set Accuracy:85.55450236966826%
+
+ Validation set Accuracy:84.35272045028142%
+
+ Test set Accuracy:85.57910673732022%
+Training Time:32.035802602767944 seconds
+Number of Hidden Nodes :24
+Lambda value:0
+
+ Training set Accuracy:85.93838862559242%
+
+ Validation set Accuracy:85.55347091932458%
+
+ Test set Accuracy:85.80620741862226%
+Lambda value:10
+
+ Training set Accuracy:85.28909952606635%
+
+ Validation set Accuracy:84.35272045028142%
+
+ Test set Accuracy:84.44360333080999%
+Lambda value:20
+
+ Training set Accuracy:85.67298578199052%
+
+ Validation set Accuracy:84.39024390243902%
+
+ Test set Accuracy:85.6548069644209%
+Lambda value:30
+
+ Training set Accuracy:84.81516587677726%
+
+ Validation set Accuracy:83.45215759849907%
+
+ Test set Accuracy:85.08705526116577%
+Lambda value:40
+
+ Training set Accuracy:85.56872037914692%
+
+ Validation set Accuracy:84.42776735459663%
+
+ Test set Accuracy:85.91975775927327%
+Lambda value:50
+
+ Training set Accuracy:85.41706161137441%
+
+ Validation set Accuracy:83.97748592870545%
+
+ Test set Accuracy:85.61695685087055%
+Lambda value:60
+
+ Training set Accuracy:85.87203791469194%
+
+ Validation set Accuracy:84.42776735459663%
+
+ Test set Accuracy:86.0333080999243%
+Training Time:35.84640121459961 seconds

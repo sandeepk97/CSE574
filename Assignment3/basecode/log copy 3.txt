@@ -1,0 +1,30 @@
+nohup: ignoring input
+
+
+--------------SVM-------------------
+
+
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+ ----------SVM linear kernel------------
+
+ Training Accuracy :94.786%
+
+ Validation Accuracy :92.22%
+
+ Testing Accuracy :92.44%
+Train Time : 19.997965574264526
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+ ------------SVM rbf kernel with gamma = 1----------------
+
+ Training Accuracy :100.0%
+
+ Validation Accuracy :15.52%
+
+ Testing Accuracy :17.29%
+Train Time : 294.71288442611694
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)

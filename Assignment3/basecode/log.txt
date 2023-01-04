@@ -1,0 +1,10 @@
+nohup: ignoring input
+
+ -----------RBF with FULL training set with best C:100---------------
+
+ Training Accuracy:99.612%
+
+ Validation Accuracy:97.41%
+
+ Testing Accuracy:97.39999999999999%
+Train Time : 76.73075580596924

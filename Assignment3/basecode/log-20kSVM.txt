@@ -1,0 +1,166 @@
+nohup: ignoring input
+
+
+--------------SVM-------------------
+
+
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+Linear Kernel:
+
+ Training Accuracy :94.862%
+
+ Validation Accuracy :92.47999999999999%
+
+ Testing Accuracy :92.63%
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+Radial basis function with value of gamma setting to 1:
+
+
+ Training Accuracy :100.0%
+
+ Validation Accuracy :15.72%
+
+ Testing Accuracy :17.43%
+/usr/local/lib/python3.10/dist-packages/sklearn/utils/validation.py:1111: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+Radial basis function with value of gamma setting to default: 
+
+ Training Accuracy :93.024%
+
+ Validation Accuracy :92.9%
+
+ Testing Accuracy :93.49%
+
+C Value: 1
+
+Radial basis function with value of gamma setting to default and varying value of C set to 1:
+
+ Training Accuracy :93.024%
+
+ Validation Accuracy :92.9%
+
+ Testing Accuracy :93.49%
+Train Time : 40.746366024017334
+
+C Value: 10
+
+Radial basis function with value of gamma setting to default and varying value of C set to 10:
+
+ Training Accuracy :95.604%
+
+ Validation Accuracy :94.93%
+
+ Testing Accuracy :95.21%
+Train Time : 20.981025457382202
+
+C Value: 20
+
+Radial basis function with value of gamma setting to default and varying value of C set to 20:
+
+ Training Accuracy :96.248%
+
+ Validation Accuracy :95.3%
+
+ Testing Accuracy :95.6%
+Train Time : 18.681315898895264
+
+C Value: 30
+
+Radial basis function with value of gamma setting to default and varying value of C set to 30:
+
+ Training Accuracy :96.60600000000001%
+
+ Validation Accuracy :95.72%
+
+ Testing Accuracy :95.77%
+Train Time : 18.39267611503601
+
+C Value: 40
+
+Radial basis function with value of gamma setting to default and varying value of C set to 40:
+
+ Training Accuracy :96.882%
+
+ Validation Accuracy :95.72%
+
+ Testing Accuracy :95.88%
+Train Time : 18.208778381347656
+
+C Value: 50
+
+Radial basis function with value of gamma setting to default and varying value of C set to 50:
+
+ Training Accuracy :97.066%
+
+ Validation Accuracy :95.87%
+
+ Testing Accuracy :95.98%
+Train Time : 18.1082763671875
+
+C Value: 60
+
+Radial basis function with value of gamma setting to default and varying value of C set to 60:
+
+ Training Accuracy :97.174%
+
+ Validation Accuracy :95.92%
+
+ Testing Accuracy :96.00999999999999%
+Train Time : 17.95035147666931
+
+C Value: 70
+
+Radial basis function with value of gamma setting to default and varying value of C set to 70:
+
+ Training Accuracy :97.226%
+
+ Validation Accuracy :95.85000000000001%
+
+ Testing Accuracy :96.04%
+Train Time : 18.048013925552368
+
+C Value: 80
+
+Radial basis function with value of gamma setting to default and varying value of C set to 80:
+
+ Training Accuracy :97.256%
+
+ Validation Accuracy :95.95%
+
+ Testing Accuracy :96.07%
+Train Time : 17.973808526992798
+
+C Value: 90
+
+Radial basis function with value of gamma setting to default and varying value of C set to 90:
+
+ Training Accuracy :97.312%
+
+ Validation Accuracy :95.91%
+
+ Testing Accuracy :96.11%
+Train Time : 17.952791929244995
+
+C Value: 100
+
+Radial basis function with value of gamma setting to default and varying value of C set to 100:
+
+ Training Accuracy :97.332%
+
+ Validation Accuracy :95.8%
+
+ Testing Accuracy :96.13000000000001%
+Train Time : 19.04548478126526
+
+RBF with FULL training set with best C:
+
+ Training Accuracy:99.002%
+
+ Validation Accuracy:97.31%
+
+ Testing Accuracy:97.19%
